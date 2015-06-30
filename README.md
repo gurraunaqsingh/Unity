@@ -6,7 +6,7 @@
 * [Your first game - 4 Video series](https://unity3d.com/learn/tutorials/modules/beginner/your-first-game)
 
 #####If completely Unfamiliar with C# - Read this
-[Learn x in y minutes (x = c#)](http://learnxinyminutes.com/docs/csharp/)
+[Learn x in y minutes (where x = c#)](http://learnxinyminutes.com/docs/csharp/)
 
 #####Once you get familiar, make a simply project to get you started with how the different elements work together.
 * [Make a Flappy Bird like game in just 1 hour!](http://anwell.me/articles/unity3d-flappy-bird/)
