@@ -15,7 +15,7 @@
 * [Part 1](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/making-angry-birds-style-game)
 * [Part 2](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/making-angry-birds-style-game-pt2)
 
-*[Get an in-depth understanding of GUI Scripting in Unity](http://www.3dgep.com/gui-scripting-in-unity/)
+* [Get an in-depth understanding of GUI Scripting in Unity](http://www.3dgep.com/gui-scripting-in-unity/)
 
 #####For more practise and learn how how to implement Sounds in your game
 * [Create a 2D Platform Game with Unity and the Dolby Audio API](http://code.tutsplus.com/tutorials/create-a-2d-platform-game-with-unity-and-the-dolby-audio-api--cms-20863)
