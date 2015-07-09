@@ -22,6 +22,17 @@
 * [Create a 2D Platform Game with Unity and the Dolby Audio API](http://code.tutsplus.com/tutorials/create-a-2d-platform-game-with-unity-and-the-dolby-audio-api--cms-20863)
 * [Make a simple top down arcade style shooter](https://unity3d.com/learn/tutorials/projects/space-shooter)
 
+#####To Get In-depth knowledge of how Scoring systems work in Game
+* [Learn how to make an isometric survival shooter game](https://unity3d.com/learn/tutorials/projects/survival-shooter)
+
+##Augmented Reality with Vuforia SDK
+
+* [Get Familiar](https://developer.vuforia.com/)
+* [Make Your First Augmented Reality Project](https://www.youtube.com/watch?v=qfxqfdtxyVA)
+* [Learn More about various Components](https://www.youtube.com/watch?v=WrEnREOT1F0)
+
+
+
 
 
 
